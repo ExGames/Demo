@@ -1,0 +1,9 @@
+#以#开始的行，被视为注释
+#忽略掉生成Debug.win32
+Debug.win32
+#忽略掉sdf文件
+*.sdf
+*.opensdf
+*.suo
+#忽略编译生成的模拟器
+simulator
